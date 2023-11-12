@@ -1,1 +1,1 @@
-# Hello, cruel JPA World!
+# Hello, cruel command-line JPA World!
