@@ -1,1 +1,1 @@
-# hello-cruel-jpa-world
+# Hello, cruel JPA World!
